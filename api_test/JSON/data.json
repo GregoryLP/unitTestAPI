@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Titan",
+        "doctrine": "Solaire",
+        "element": "Feu"
+    },
+    {
+        "name": "Chasseur",
+        "doctrine": "Flèche",
+        "element": "Abyssal"
+    }
+]
